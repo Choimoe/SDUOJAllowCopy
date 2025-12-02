@@ -7,6 +7,7 @@
 // @match        https://oj.qd.sdu.edu.cn/v2/problemSet/*
 // @run-at       document-end
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
