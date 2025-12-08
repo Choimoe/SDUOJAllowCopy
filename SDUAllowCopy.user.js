@@ -4,7 +4,7 @@
 // @version      1.0.0
 // @description  允许在oj.qd.sdu.edu.cn复制题目内容
 // @author       Choimoe
-// @match        https://oj.qd.sdu.edu.cn/v2/problemSet/*
+// @match        https://oj.qd.sdu.edu.cn/*
 // @run-at       document-end
 // @grant        none
 // @license      MIT
